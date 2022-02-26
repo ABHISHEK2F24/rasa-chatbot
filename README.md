@@ -6,3 +6,6 @@ Rasa Open Source provides three main functions.
 2. **Dialogue Management** : Machine learning-powered dialogue management decides what the assistant should do next, based on the user’s message and context from the conversation.
 3. **Integrations** : Built-in integration points for over 10 messaging channels, plus endpoints to connect with databases, APIs, and other data sources.
 Together, they provide everything you need to build a virtual assistant.
+
+
+![RASA](./RASA.png)
